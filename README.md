@@ -1,3 +1,3 @@
 # codealpha_task
- internship projects
+Internship projects
 
